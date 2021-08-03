@@ -1,0 +1,31 @@
+# Server Port
+server:
+  port: 8082
+
+management:
+    security:
+        enabled: false
+spring:
+    application:
+        name: appstring
+    datasource:
+        data: classpath:data.sql
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        initialize: true
+        password: Welcome@123
+        schema: classpath:schema.sql
+        tomcat:
+            max-active: 50
+            max-idle: 20
+            max-wait: 20000
+            min-idle: 15
+        url: jdbc:mysql://localhost:3306/springbootdb
+        username: root
+    jpa:
+        hibernate:
+            ddl-auto: validate
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.MySQL8Dialect
+                format_sql: true
+        show-sql: true

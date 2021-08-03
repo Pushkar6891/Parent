@@ -12,5 +12,6 @@
 	<modules>
 		<module>appstring</module>
 		<module>appnumber</module>
+		<module>appspringbootsimplecache</module>
 	</modules>
 </project>
