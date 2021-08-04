@@ -2,26 +2,16 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'ubuntu-16.04' # Hosted Ubuntu 1604
+  demands: maven
 
 steps:
 - task: Maven@3
+  displayName: 'Maven app/pom.xml'
   inputs:
     mavenPomFile: 'pom.xml'
-    mavenOptions: '-Xmx3072m'
-    javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
-    jdkArchitectureOption: 'x64'
-    publishJUnitResults: true
-    testResultsFiles: '**/surefire-reports/TEST-*.xml'
-    goals: 'package'
     codeCoverageToolOption: Cobertura
-  
-- task: PublishCodeCoverageResults@1
-  inputs:
-    codeCoverageTool: 'JaCoCo'
-    summaryFileLocation: '$(System.DefaultWorkingDirectory)/TestResults/Coverage/*.xml'
-    
+
 - task: CopyFiles@2
   displayName: 'Copy Files to: $(build.artifactstagingdirectory)'
   inputs:
