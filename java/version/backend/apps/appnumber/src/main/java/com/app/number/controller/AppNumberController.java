@@ -14,7 +14,7 @@ import com.app.number.service.AppNumberService;
 @RestController
 public class AppNumberController {
 
-	protected final Logger LOGGER = LoggerFactory.getLogger(getClass());
+	protected final Logger log = LoggerFactory.getLogger(getClass());
 
 	@Value("${spring.application.name:appstring}")
 	private String appName;
@@ -28,28 +28,28 @@ public class AppNumberController {
 
 	@GetMapping(value = AppNumberConstant.URL_CONFIG_REVERSE)
 	public Boolean reverseStringConfig(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
+		log.info(AppNumberConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(),
 				getClass(), appName);
 		return appNumberService.isPalindromeConfig(Integer.parseInt(key));
 	}
 
 	@GetMapping(value = AppNumberConstant.URL_LIB_REVERSE)
 	public Boolean reverseStringLib(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
+		log.info(AppNumberConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(),
 				getClass(), appName);
 		return appNumberService.isPalindromeLib(Integer.parseInt(key));
 	}
 
 	@GetMapping(value = AppNumberConstant.URL_SERVICE_REVERSE)
 	public Boolean reverseStringService(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
+		log.info(AppNumberConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(),
 				getClass(), appName);
 		return appNumberService.isPalindromeService(Integer.parseInt(key));
 	}
 
 	@GetMapping(value = AppNumberConstant.URL_UTIL_REVERSE)
 	public Boolean reverseStringUtil(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
+		log.info(AppNumberConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(),
 				getClass(), appName);
 		return appNumberService.isPalindromeUtil(Integer.parseInt(key));
 	}

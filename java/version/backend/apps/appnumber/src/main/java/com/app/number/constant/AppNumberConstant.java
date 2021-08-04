@@ -10,4 +10,5 @@ public final class AppNumberConstant {
 	public static final String URL_SERVICE_REVERSE = "/appnumber/service/palindrome/{key}";
 	public static final String URL_UTIL_REVERSE = "/appnumber/util/palindrome/{key}";
 
+	public static final String LOG = "method : {}, class : {}, appName : {}";
 }

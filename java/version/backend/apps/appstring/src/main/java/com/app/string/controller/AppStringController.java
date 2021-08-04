@@ -14,7 +14,7 @@ import com.app.string.service.AppStringService;
 @RestController
 public class AppStringController {
 
-	protected final Logger LOGGER = LoggerFactory.getLogger(getClass());
+	protected final Logger log = LoggerFactory.getLogger(getClass());
 
 	@Value("${spring.application.name:appstring}")
 	private String appName;
@@ -28,29 +28,25 @@ public class AppStringController {
 
 	@GetMapping(value = AppStringConstant.URL_CONFIG_REVERSE)
 	public String reverseStringConfig(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
-				getClass(), appName);
+		log.info(AppStringConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(), getClass(), appName);
 		return appStringService.reverseStringConfig(key);
 	}
 
 	@GetMapping(value = AppStringConstant.URL_LIB_REVERSE)
 	public String reverseStringLib(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
-				getClass(), appName);
+		log.info(AppStringConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(), getClass(), appName);
 		return appStringService.reverseStringLib(key);
 	}
 
 	@GetMapping(value = AppStringConstant.URL_SERVICE_REVERSE)
 	public String reverseStringService(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
-				getClass(), appName);
+		log.info(AppStringConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(), getClass(), appName);
 		return appStringService.reverseStringService(key);
 	}
 
 	@GetMapping(value = AppStringConstant.URL_UTIL_REVERSE)
 	public String reverseStringUtil(@PathVariable("key") String key) {
-		LOGGER.info("method : {}, class : {}, appName : {}", Thread.currentThread().getStackTrace()[1].getMethodName(),
-				getClass(), appName);
+		log.info(AppStringConstant.LOG, Thread.currentThread().getStackTrace()[1].getMethodName(), getClass(), appName);
 		return appStringService.reverseStringUtil(key);
 	}
 

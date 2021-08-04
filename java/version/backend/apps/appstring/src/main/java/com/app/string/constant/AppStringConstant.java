@@ -10,4 +10,5 @@ public final class AppStringConstant {
 	public static final String URL_SERVICE_REVERSE = "/appstring/service/reverse/{key}";
 	public static final String URL_UTIL_REVERSE = "/appstring/util/reverse/{key}";
 
+	public static final String LOG = "method : {}, class : {}, appName : {}";
 }
