@@ -5,7 +5,7 @@ spring:
 
 # Server Port
 server:
-  port: 8080
+  port: 8102
 
 # Logging pattern for the console
 # Logging pattern for file

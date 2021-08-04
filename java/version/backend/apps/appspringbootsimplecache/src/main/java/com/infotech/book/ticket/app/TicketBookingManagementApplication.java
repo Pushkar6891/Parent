@@ -14,9 +14,9 @@ public class TicketBookingManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TicketBookingManagementApplication.class, args);
 	}
-	
+
 	@Bean
-	public CacheManager cacheManager(){
+	public CacheManager cacheManager() {
 		return new ConcurrentMapCacheManager("ticketsCache");
 	}
 }
