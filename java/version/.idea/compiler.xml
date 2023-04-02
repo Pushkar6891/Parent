@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testing-spring-boot-application" />
+        <module name="streampipeline" />
+        <module name="springbootappspringdatajpaassociations" />
+        <module name="springbootappbuildpack" />
+        <module name="thisreferencevariableinlambda" />
+        <module name="springbootappspringdatajpatutorial" />
+        <module name="functionalinterfacebifunction" />
+        <module name="springbootappbharathspringaop" />
+        <module name="streamreduction" />
+        <module name="springbootappspringaoppointcut" />
+        <module name="udemyjavadesignpatternsandsoliddesignprinciples" />
+        <module name="springbootappspringwebsocket" />
+        <module name="springbootappds-array" />
+        <module name="springbootapphighlyavailableeurekaclient" />
+        <module name="udemyconcurrencymultithreadingandparallelcomputinginjava" />
+        <module name="springbootappcachecaffeinecache" />
+        <module name="springbootappmongodbspringbatch" />
+        <module name="springbootappsecurityfacebookoauth" />
+        <module name="springbootappspringmvcmockitoandmockmvc" />
+        <module name="springbootappspringdatajpafilehandling" />
+        <module name="hystrix-dashboard" />
+        <module name="udemyjavaprogrammingmasterclassforsoftwaredevelopers" />
+        <module name="springbootappreactiveprogramming" />
+        <module name="springbootappspringdatajpapatientappointmentscheduling" />
+        <module name="springbootappds-string" />
+        <module name="kkjava8" />
+        <module name="springbootappspringbatchexample" />
+        <module name="streamoperationintermediateandterminal" />
+        <module name="springbootappds-queue" />
+        <module name="optional" />
+        <module name="springbootappspringbootscheduler" />
+        <module name="concurrencyapiimprovementsatomicpkgdoubleadder" />
+        <module name="concurrencyapiimprovementsatomicpkglongadder" />
+        <module name="sivareddy" />
+        <module name="restfulwebservices" />
+        <module name="springbootappbasicemployeerestapi" />
+        <module name="springbootapptutorial" />
+        <module name="springbootappactuator" />
+        <module name="springbootappspringdatajpamongodb" />
+        <module name="springbootappdefaultcustomerrorpage" />
+        <module name="jg-java8featuresinonevideo" />
+        <module name="saurabh-shukla" />
+        <module name="javaspringsecurity" />
+        <module name="springbootapptemplateenginefreemarker" />
+        <module name="springbootappinterfacecommmandlinerunner" />
+        <module name="springbootappsecurityinmemoryauthentication" />
+        <module name="springbootappspringcloudfunctionexample" />
+        <module name="springbootappspringdatajpausingjpqlandnamedqueries" />
+        <module name="springbootappspringdatajpamultipledatasources" />
+        <module name="springbootappcrudwithmysql" />
+        <module name="springbootappspringjms" />
+        <module name="base64encodeanddecode" />
+        <module name="jt-java8" />
+        <module name="hackerrank" />
+        <module name="springbootapphighlyavailableeurekaserviceregistry" />
+        <module name="springbootappstudentmanagementsystem" />
+        <module name="springbootapprabbitmqpublishersubscriber" />
+        <module name="streamoperationreductionandcollect" />
+        <module name="functionalinterfacebiconsumer" />
+        <module name="springbootappjdbctransactionmanagement" />
+        <module name="defaultmethodinfunctionalinterfacebinaryoperator" />
+        <module name="functionalinterfaceunaryoperator" />
+        <module name="springbootappmongodbembedded" />
+        <module name="springbootappflightservicesdocker" />
+        <module name="dineshvaryani" />
+        <module name="springbootappds-linkedlist" />
+        <module name="tp-microservicesarchitecturepatterns-loadbalancingserverside" />
+        <module name="springbootappxmlrest" />
+        <module name="functionalinterfacefunction" />
+        <module name="springbootapphelloworld" />
+        <module name="udemymultithreadingparallelasynchronouscoding" />
+        <module name="springbootappdroolruleengine" />
+        <module name="springbootappsecurityjwt" />
+        <module name="streamparallelstream" />
+        <module name="tp-microservicesarchitecturepatterns-loadbalancingclientside" />
+        <module name="springbootapptestdemo" />
+        <module name="springbootapplambdaexpression" />
+        <module name="springbootappbharathspringjdbc" />
+        <module name="springbootappcachesimplecacheautoconfigurable" />
+        <module name="springbootappcachehazelcastcache" />
+        <module name="interview" />
+        <module name="jaeger-server" />
+        <module name="testing-hamcrest" />
+        <module name="udemydesignpatternsinjava" />
+        <module name="concurrencyapiimprovementsconcurrenthashmap" />
+        <module name="methodreferencewithstaticmethod" />
+        <module name="springbootappspringdatajpacomponentmapping" />
+        <module name="springbootappspringsecurityintegrationtest" />
+        <module name="springbootappspringmvcexceptionhandling" />
+        <module name="springbootappwebsocket" />
+        <module name="jg-javalambdaexpressions" />
+        <module name="defaultmethodinlistinterface" />
+        <module name="streamoperationfilterandmatch" />
+        <module name="springbootappstoresprocedurecall" />
+        <module name="springbootappsecurityloginlogoutthymeleafjpamysql" />
+        <module name="concurrencyapiimprovementsforkjoinpool" />
+        <module name="streamcreation" />
+        <module name="springbootappspringaopexecutiontimetracker" />
+        <module name="springbootappticketbookingmanagement" />
+        <module name="springbootappchangedefaultserverportconfigapproach" />
+        <module name="comparatorreversedmethod" />
+        <module name="springbootappspringcloudfunction" />
+        <module name="springbootappmysql" />
+        <module name="springbootappspringintegration" />
+        <module name="methodreferencetoinstancemethodinlambda" />
+        <module name="springbootappds-dynamicprogramming" />
+        <module name="wrapperclassenhancements" />
+        <module name="comparatorsortingwithnullvalues" />
+        <module name="defaultmethodinmapinterface" />
+        <module name="springbootappdbinitializationusingspringjdbc" />
+        <module name="springbootappspringaopbeforeadvice" />
+        <module name="springbootappchangedefaultcontextpath" />
+        <module name="springbootappspringsecuritycorsserver" />
+        <module name="typeinference" />
+        <module name="springbootappcompleteablefuture" />
+        <module name="springbootapporderofcommandlinerunnerandapplicationrunner" />
+        <module name="springbootapppeoplemgmtspringbootdatajpa" />
+        <module name="comparatorimplementationusinglambda" />
+        <module name="javastreams" />
+        <module name="springbootappspringbatchcsvtodbexample" />
+        <module name="javaspringboottutorial" />
+        <module name="springbootappdbinitializationusingjpa" />
+        <module name="producerconsumerusingblockingqueue" />
+        <module name="springbootappspringdatajpapaginationandsorting" />
+        <module name="testing-mockito3" />
+        <module name="springbootappspringbootprofile" />
+        <module name="springbootappsecurityspringsecurity" />
+        <module name="springbootappspringsecuritybasic" />
+        <module name="springbootapptest" />
+        <module name="springbootappspringdataenvers" />
+        <module name="springbootappstreamapijavaeight" />
+        <module name="springbootappapachekafkaproducer" />
+        <module name="udemyjunitasahabitnotanafterthought" />
+        <module name="springbootappjqueryajax" />
+        <module name="springbootapplambdaexpressionjavaeight" />
+        <module name="springbootappds-stack" />
+        <module name="udemyspringbootrestfulwebservicestutorial" />
+        <module name="springbootappbharathspringcore" />
+        <module name="registration-service" />
+        <module name="springbootappgraphneo4j" />
+        <module name="defaultandstaticmethodininterface" />
+        <module name="cloud-gateway" />
+        <module name="springbootappbharathspringcoreadvanced" />
+        <module name="functionalinterfacebipredicate" />
+        <module name="springbootappapachecamelrestdsl" />
+        <module name="springbootappsecuritywithmysql" />
+        <module name="springbootappgraphneo4jassociation" />
+        <module name="springbootappbackend" />
+        <module name="springbootappds-doublylinkedlist" />
+        <module name="testing-junit5" />
+        <module name="functionalinterfacebinaryoperator" />
+        <module name="springbootappchangedefaultserverportprogrammaticapproach" />
+        <module name="udemypracticaljavaprogrammingpractices" />
+        <module name="testing-junit4" />
+        <module name="smart-programming" />
+        <module name="springbootappspringbatchcsvtodb" />
+        <module name="springbootappuploaddownloaddocument" />
+        <module name="springbootappembeddeddbderby" />
+        <module name="stringjoinerclass" />
+        <module name="udemyjunit5quickstartjavaunittesting" />
+        <module name="springbootappds-binarysearchtree" />
+        <module name="springbootappstudentdataaccesslayer" />
+        <module name="springbootappmustachelogiclesstemplateengine" />
+        <module name="springbootappbharathspringmvc" />
+        <module name="bharath-springbootappproductservice" />
+        <module name="springbootappds-binarytree" />
+        <module name="springbootappspringdatajpaidgenerators" />
+        <module name="springbootappmonitoringactuator" />
+        <module name="springbootappapachecamel" />
+        <module name="functionalinterfacesupplier" />
+        <module name="defaultmethodinfunctionalinterfacebifunction" />
+        <module name="springbootappconnectionpooltomcat" />
+        <module name="springbootappembeddeddbh2" />
+        <module name="springbootappspringdatajpa" />
+        <module name="iteratemapusingforeach" />
+        <module name="springbootappdocker" />
+        <module name="springbootappreactiveprogrammingmongodb" />
+        <module name="springbootappds-graph" />
+        <module name="springbootappspringsecuritycorsclient" />
+        <module name="concurrencyapiimprovementsfailfastfailsafeiterator" />
+        <module name="springbootappspringbootbatchcsvtodb" />
+        <module name="springbootappsendemailclient" />
+        <module name="javaunittestingandintegrationtesting" />
+        <module name="javaoptionals" />
+        <module name="springbootappresilience4jserviceA" />
+        <module name="javafullcourse" />
+        <module name="springbootappresilience4jserviceB" />
+        <module name="defaultmethodinfunctionalinterfacebiconsumer" />
+        <module name="geeky-shows" />
+        <module name="springbootappbestpractise" />
+        <module name="bharath-springbootappcouponservice" />
+        <module name="udemyjavamultithreadingconcurrencyandperformanceoptimization" />
+        <module name="springbootappcacheehcache" />
+        <module name="springbootappspringdatajpacaching" />
+        <module name="springbootappspringdatajpahibernateinheritance" />
+        <module name="devoxx" />
+        <module name="springbootappspringmvcformvalidationthymeleaf" />
+        <module name="comparatorwithjava8" />
+        <module name="springbootappcachesimplecache" />
+        <module name="springbootappdocumentationopenapi" />
+        <module name="closuresinlambda" />
+        <module name="springbootapptestingpowermockito" />
+        <module name="springbootapppaginationsorting" />
+        <module name="springbootappapachekafkaconsumer" />
+        <module name="springbootappadminserver" />
+        <module name="udemysoftwarearchitecturesolidanddesignpatternsinjava" />
+        <module name="springbootappbharathspringorm" />
+        <module name="springbootappspringscheduler" />
+        <module name="springbootappjsonpath" />
+        <module name="springbootappspringdataresttestinghalbrowser" />
+        <module name="streams" />
+        <module name="springbootappthymeleafdemo" />
+        <module name="defaultmethodincollectionanditerableinterface" />
+        <module name="venkat-subramaniam" />
+        <module name="springbootappsecurity" />
+        <module name="defogtech" />
+        <module name="comparatornaturalorderandreverseorder" />
+        <module name="producerconsumerusingsemaphore" />
+        <module name="bharath-java8-assignment-solution" />
+        <module name="springbootappthymeleafserversidetemplateengine" />
+        <module name="springbootappdroolsruleengine" />
+        <module name="springbootappspringdatajpaqueryannotationandmodifyingannotation" />
+        <module name="stringclassenhancement" />
+        <module name="handlecheckedexceptioninlambda" />
+        <module name="zipfileclassenhancement" />
+        <module name="springbootappspringdatajpaasyncquery" />
+        <module name="springbootappthymeleafserversidetemplateenginei18N" />
+        <module name="telusko-junit" />
+        <module name="udemyjavamultithreading" />
+        <module name="springbootappds-backtracking" />
+        <module name="springbootapplogging" />
+        <module name="service-registry" />
+        <module name="comparatorbeforejava8" />
+        <module name="udemymodernjavalearnjava8features" />
+        <module name="concurrencyapiimprovementscompleteablefuture" />
+        <module name="springbootappdocsjsondocs" />
+        <module name="cloud-config-server" />
+        <module name="udemymasterobjectorienteddesigninjavahomeworksolutions" />
+        <module name="streamreferencingstream" />
+        <module name="springbootappspringaopafterreturningandafterthrowingadvices" />
+        <module name="functionalinterfacebooleansupplier" />
+        <module name="mathclassenhancement" />
+        <module name="springbootappgraphql" />
+        <module name="springbootappdrooldecisiontable" />
+        <module name="springbootapphellospringboot" />
+        <module name="springbootapphibernatemysql" />
+        <module name="springbootapptransactional" />
+        <module name="springbootappspringtransaction" />
+        <module name="streambasicapi" />
+        <module name="springbootappspringdatajpacompositekey" />
+        <module name="datetimeapienhancements" />
+        <module name="springbootappmongodbcrud" />
+        <module name="springbootappspringcloudtask" />
+        <module name="springbootapplocationwebpresentationlayer" />
+        <module name="department-service" />
+        <module name="springbootappvertexrestfulwebservices" />
+        <module name="ioenhancement" />
+        <module name="leetcode" />
+        <module name="springbootappconnectionpoolhikari" />
+        <module name="springbootappbharathspringmvcorm" />
+        <module name="springbootappsolidprinciple" />
+        <module name="tp-microservicesarchitecturepatterns-highavailability" />
+        <module name="springbootappinterfaceapplicationrunner" />
+        <module name="springbootappspringbootprofiles" />
+        <module name="concurrencyapiimprovementsexecutorservice" />
+        <module name="springbootappspringsecurityldap" />
+        <module name="functionalinterface" />
+        <module name="springbootappcore" />
+        <module name="springbootapprabbitmqproducer" />
+        <module name="springbootappadminclient" />
+        <module name="springbootappclinicalapi" />
+        <module name="user-service" />
+        <module name="springbootappticketbookingmanagementmysql" />
+        <module name="springbootappproductapi" />
+        <module name="udemytestingspringbootapplicationwithjunitandmockito" />
+        <module name="springbootappspringjdbcmysql" />
+        <module name="bharath-interview" />
+        <module name="streamoperationmap" />
+        <module name="springbootappcustombanner" />
+        <module name="springbootappslf4jlogback" />
+        <module name="udemyspringbootunittestingluv2code" />
+        <module name="springbootappspringdatajpausingnamednativequery" />
+        <module name="springbootappflightreservation" />
+        <module name="springbootappspringaoparoundadvice" />
+        <module name="testing-powermockito2" />
+        <module name="lambdaexpressionwithreturnvalue" />
+        <module name="springbootappspringdatajpanamedparameterparamannotation" />
+        <module name="jt-java-collection" />
+        <module name="springbootappproperties" />
+        <module name="concurrencyapiimprovementsatomicpkglongaccumulator" />
+        <module name="concurrencyapiimprovementsatomicpkgdoubleaccumulator" />
+        <module name="iteratecollectionusingforeach" />
+        <module name="springbootappflightservices" />
+        <module name="springbootapphighchartgraph" />
+        <module name="springbootappspringdatajpatransactionmanagement" />
+        <module name="springbootappspringdatajpaqueryannotation" />
+        <module name="javaspringbootspringdatajpa" />
+        <module name="springbootappvertexweb" />
+        <module name="nashornjavascriptengine" />
+        <module name="javadatastructures" />
+        <module name="ranjithramachandran" />
+        <module name="springbootappmultiplemainclass" />
+        <module name="springbootappspringprofile" />
+        <module name="springbootappds-heap" />
+        <module name="lambdaexpressionwithfunctionalinterface" />
+        <module name="springbootappdroolsruleenginedecisiontable" />
+        <module name="springbootappvertexconsumeresfulwebservicesusingvertexwebclient" />
+        <module name="tp-microservicesarchitecturepatterns-apigateway" />
+        <module name="springbootappspringdatajpajpqlandnativesql" />
+        <module name="springbootappfirstapplication" />
+        <module name="handleuncheckedexceptioninlambda" />
+        <module name="springbootappdatabaseflyway" />
+        <module name="springbootappspringdatajpaexample" />
+        <module name="springbootapploggercustomlogginglogback" />
+        <module name="producerconsumerusingwaitandnotify" />
+        <module name="springbootappactuator2" />
+        <module name="tp-microservicesarchitecturepatterns-saga" />
+        <module name="lambdaexpression" />
+        <module name="dsa-hemantjain" />
+        <module name="springbootappexitcode" />
+        <module name="streaminfinitestream" />
+        <module name="javafunctionalprogramming" />
+        <module name="jaeger-client" />
+        <module name="threadlocalclassenhancement" />
+        <module name="springbootapptestingmockitomockmvc" />
+        <module name="springbootappspringsecurityjwt" />
+        <module name="pk-junit-rest-api-application" />
+        <module name="springbootappspringdatajpaquerymethods" />
+        <module name="springbootapprabbitmqconsumer" />
+        <module name="springbootappspringjdbi" />
+        <module name="methodreferencetoconstructorinlambda" />
+        <module name="springbootappcrudmysql" />
+        <module name="springbootapplogger" />
+        <module name="code-decode-java8" />
+        <module name="springbootappspringdatajpaproductcrudmysql" />
+        <module name="javasoftwaretestingjunitmockito" />
+        <module name="springbootapptestingmockito" />
+        <module name="comparatorsortlist" />
+        <module name="lambdaexpressionbestpractice" />
+        <module name="springbootappdocsopenapi" />
+        <module name="bharath-java8" />
+        <module name="comparatorcomparingmethods" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootappbestpractices" target="17" />
+      <module name="springbootappbestpractise" target="17" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (1)" target="1.8" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (2)" target="17" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (3)" target="17" />
+      <module name="springbootappstreamapi" target="17" />
+      <module name="testing-udemy-junit5mockitopowermockito-andriipiatakha" target="17" />
+      <module name="tp-clientsideloadbalancing" target="17" />
+      <module name="tp-microservicesarchitecturepatterns-clientsideloadbalancing" target="17" />
+      <module name="tp-microservicesarchitecturepatterns-serversideloadbalancing" target="17" />
+      <module name="tp-serversideloadbalancing" target="17" />
+      <module name="udemyjunitasahabitnotanafterthohought" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amigoscode" options="-parameters -Xlint:unchecked" />
+      <module name="apps" options="-parameters -Xlint:unchecked" />
+      <module name="backend" options="-parameters -Xlint:unchecked" />
+      <module name="base64encodeanddecode" options="-parameters -Xlint:unchecked" />
+      <module name="best-practices" options="-parameters -Xlint:unchecked" />
+      <module name="bharath" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-interview" options="-parameters" />
+      <module name="bharath-java8" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-java8-assignment-solution" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-spring" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-spring-boot-fundamentals" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-spring-cloud" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-springbootappcouponservice" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-springbootappproductservice" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-springbootappspringdatajpa" options="-parameters -Xlint:unchecked" />
+      <module name="bharath-springsecurityfundamentals" options="-parameters -Xlint:unchecked" />
+      <module name="closuresinlambda" options="-parameters -Xlint:unchecked" />
+      <module name="cloud-config-server" options="-parameters -Xlint:unchecked" />
+      <module name="cloud-gateway" options="-parameters -Xlint:unchecked" />
+      <module name="code-decode" options="-parameters -Xlint:unchecked" />
+      <module name="code-decode-java8" options="-parameters -Xlint:unchecked" />
+      <module name="coding-simplified" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorbeforejava8" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorcomparingmethods" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorimplementationusinglambda" options="-parameters -Xlint:unchecked" />
+      <module name="comparatornaturalorderandreverseorder" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorreversedmethod" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorsortingwithnullvalues" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorsortlist" options="-parameters -Xlint:unchecked" />
+      <module name="comparatorwithjava8" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsatomicpkgdoubleaccumulator" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsatomicpkgdoubleadder" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsatomicpkglongaccumulator" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsatomicpkglongadder" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementscompleteablefuture" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsconcurrenthashmap" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsexecutorservice" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsfailfastfailsafeiterator" options="-parameters -Xlint:unchecked" />
+      <module name="concurrencyapiimprovementsforkjoinpool" options="-parameters -Xlint:unchecked" />
+      <module name="dailycodebuffer" options="-parameters -Xlint:unchecked" />
+      <module name="datetimeapienhancements" options="-parameters -Xlint:unchecked" />
+      <module name="dcb-cloud" options="-parameters -Xlint:unchecked" />
+      <module name="dcb-spring-boot" options="-parameters -Xlint:unchecked" />
+      <module name="defaultandstaticmethodininterface" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodincollectionanditerableinterface" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodinfunctionalinterfacebiconsumer" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodinfunctionalinterfacebifunction" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodinfunctionalinterfacebinaryoperator" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodinlistinterface" options="-parameters -Xlint:unchecked" />
+      <module name="defaultmethodinmapinterface" options="-parameters -Xlint:unchecked" />
+      <module name="defogtech" options="-parameters" />
+      <module name="department-service" options="-parameters -Xlint:unchecked" />
+      <module name="devoxx" options="-parameters -Xlint:unchecked" />
+      <module name="dineshvaryani" options="-parameters" />
+      <module name="dsa-hemantjain" options="-parameters -Xlint:unchecked" />
+      <module name="external-deps" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterface" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacebiconsumer" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacebifunction" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacebinaryoperator" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacebipredicate" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacebooleansupplier" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacefunction" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfacesupplier" options="-parameters -Xlint:unchecked" />
+      <module name="functionalinterfaceunaryoperator" options="-parameters -Xlint:unchecked" />
+      <module name="geeky-shows" options="-parameters -Xlint:unchecked" />
+      <module name="hackerrank" options="-parameters -Xlint:unchecked" />
+      <module name="handlecheckedexceptioninlambda" options="-parameters -Xlint:unchecked" />
+      <module name="handleuncheckedexceptioninlambda" options="-parameters -Xlint:unchecked" />
+      <module name="hystrix-dashboard" options="-parameters -Xlint:unchecked" />
+      <module name="in28minutes" options="-parameters -Xlint:unchecked" />
+      <module name="interview" options="-parameters -Xlint:unchecked" />
+      <module name="ioenhancement" options="-parameters -Xlint:unchecked" />
+      <module name="iteratecollectionusingforeach" options="-parameters -Xlint:unchecked" />
+      <module name="iteratemapusingforeach" options="-parameters -Xlint:unchecked" />
+      <module name="jaeger-client" options="-parameters -Xlint:unchecked" />
+      <module name="jaeger-server" options="-parameters -Xlint:unchecked" />
+      <module name="javadatastructures" options="-parameters -Xlint:unchecked" />
+      <module name="javafullcourse" options="-parameters -Xlint:unchecked" />
+      <module name="javafunctionalprogramming" options="-parameters -Xlint:unchecked" />
+      <module name="javaguides" options="-parameters -Xlint:unchecked" />
+      <module name="javaoptionals" options="-parameters -Xlint:unchecked" />
+      <module name="javasoftwaretestingjunitmockito" options="-parameters -Xlint:unchecked" />
+      <module name="javaspringbootspringdatajpa" options="-parameters -Xlint:unchecked" />
+      <module name="javaspringboottutorial" options="-parameters -Xlint:unchecked" />
+      <module name="javaspringsecurity" options="-parameters -Xlint:unchecked" />
+      <module name="javastreams" options="-parameters -Xlint:unchecked" />
+      <module name="javatechie" options="-parameters -Xlint:unchecked" />
+      <module name="javaunittestingandintegrationtesting" options="-parameters -Xlint:unchecked" />
+      <module name="jg-java8featuresinonevideo" options="-parameters -Xlint:unchecked" />
+      <module name="jg-javalambdaexpressions" options="-parameters -Xlint:unchecked" />
+      <module name="jj-java8" options="-parameters -Xlint:unchecked" />
+      <module name="joejames" options="-parameters -Xlint:unchecked" />
+      <module name="jt-java-collection" options="-parameters -Xlint:unchecked" />
+      <module name="jt-java8" options="-parameters -Xlint:unchecked" />
+      <module name="jt-spring-boot" options="-parameters -Xlint:unchecked" />
+      <module name="kk" options="-parameters -Xlint:unchecked" />
+      <module name="kk-java8" options="-parameters -Xlint:unchecked" />
+      <module name="kk-producer-consumer" options="-parameters -Xlint:unchecked" />
+      <module name="kk-spring-boot" options="-parameters -Xlint:unchecked" />
+      <module name="kkjava8" options="-parameters -Xlint:unchecked" />
+      <module name="lambdaexpression" options="-parameters -Xlint:unchecked" />
+      <module name="lambdaexpressionbestpractice" options="-parameters -Xlint:unchecked" />
+      <module name="lambdaexpressionwithfunctionalinterface" options="-parameters -Xlint:unchecked" />
+      <module name="lambdaexpressionwithreturnvalue" options="-parameters -Xlint:unchecked" />
+      <module name="leetcode" options="-parameters -Xlint:unchecked" />
+      <module name="mathclassenhancement" options="-parameters -Xlint:unchecked" />
+      <module name="methodreferencetoconstructorinlambda" options="-parameters -Xlint:unchecked" />
+      <module name="methodreferencetoinstancemethodinlambda" options="-parameters -Xlint:unchecked" />
+      <module name="methodreferencewithstaticmethod" options="-parameters -Xlint:unchecked" />
+      <module name="msfs-pe" options="-parameters -Xlint:unchecked" />
+      <module name="nashornjavascriptengine" options="-parameters -Xlint:unchecked" />
+      <module name="optional" options="-parameters -Xlint:unchecked" />
+      <module name="pk-junit-rest-api-application" options="-parameters -Xlint:unchecked" />
+      <module name="producerconsumerusingblockingqueue" options="-parameters -Xlint:unchecked" />
+      <module name="producerconsumerusingsemaphore" options="-parameters -Xlint:unchecked" />
+      <module name="producerconsumerusingwaitandnotify" options="-parameters -Xlint:unchecked" />
+      <module name="programmingknowledge" options="-parameters -Xlint:unchecked" />
+      <module name="ranjithramachandran" options="-parameters -Xlint:unchecked" />
+      <module name="registration-service" options="-parameters -Xlint:unchecked" />
+      <module name="restfulwebservices" options="-parameters -Xlint:unchecked" />
+      <module name="saurabh-shukla" options="-parameters -Xlint:unchecked" />
+      <module name="service-registry" options="-parameters -Xlint:unchecked" />
+      <module name="sivareddy" options="-parameters -Xlint:unchecked" />
+      <module name="smart-programming" options="-parameters -Xlint:unchecked" />
+      <module name="spring-deps" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappactuator" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappactuator2" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappadminclient" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappadminserver" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappapachecamel" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappapachecamelrestdsl" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappapachekafkaconsumer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappapachekafkaproducer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbackend" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbasicemployeerestapi" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbestpractices" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbestpractise" options="-parameters" />
+      <module name="springbootappbharathspringaop" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringcore" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringcoreadvanced" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringjdbc" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringmvc" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringmvcorm" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbharathspringorm" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappbuildpack" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcachecaffeinecache" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcacheehcache" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcachehazelcastcache" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcachesimplecache" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcachesimplecacheautoconfigurable" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappchangedefaultcontextpath" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappchangedefaultserverportconfigapproach" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappchangedefaultserverportprogrammaticapproach" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappclinicalapi" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcompleteablefuture" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappconnectionpoolhikari" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappconnectionpooltomcat" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcore" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcrudmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcrudwithmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappcustombanner" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdatabaseflyway" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdbinitializationusingjpa" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdbinitializationusingspringjdbc" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdefaultcustomerrorpage" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdocker" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdocsjsondocs" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdocsopenapi" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdocumentationopenapi" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdrooldecisiontable" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdroolruleengine" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdroolsruleengine" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappdroolsruleenginedecisiontable" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-array" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-backtracking" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-binarysearchtree" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-binarytree" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-doublylinkedlist" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-dynamicprogramming" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-graph" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-heap" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-linkedlist" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-queue" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-stack" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappds-string" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappembeddeddbderby" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappembeddeddbh2" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappexitcode" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappfirstapplication" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappflightreservation" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappflightservices" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappflightservicesdocker" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappgraphneo4j" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappgraphneo4jassociation" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappgraphql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphellospringboot" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphelloworld" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphibernatemysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighchartgraph" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighlyavailableeurekaclient" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (1)" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (2)" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapphighlyavailableeurekaserviceregistry (3)" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappinterfaceapplicationrunner" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappinterfacecommmandlinerunner" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappjdbctransactionmanagement" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappjqueryajax" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappjsonpath" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapplambdaexpression" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapplambdaexpressionjavaeight" options="-parameters" />
+      <module name="springbootapplocationwebpresentationlayer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapplogger" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapploggercustomlogginglogback" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapplogging" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmongodbcrud" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmongodbembedded" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmongodbspringbatch" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmonitoringactuator" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmultiplemainclass" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmustachelogiclesstemplateengine" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapporderofcommandlinerunnerandapplicationrunner" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapppaginationsorting" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapppeoplemgmtspringbootdatajpa" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappproductapi" options="-parameters" />
+      <module name="springbootappproperties" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapprabbitmqconsumer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapprabbitmqproducer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapprabbitmqpublishersubscriber" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappreactiveprogramming" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappreactiveprogrammingmongodb" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappresilience4jserviceA" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappresilience4jserviceB" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurity" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurityfacebookoauth" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurityinmemoryauthentication" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurityjwt" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurityloginlogoutthymeleafjpamysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecurityspringsecurity" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsecuritywithmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsendemailclient" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappslf4jlogback" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappsolidprinciple" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringaopafterreturningandafterthrowingadvices" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringaoparoundadvice" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringaopbeforeadvice" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringaopexecutiontimetracker" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringaoppointcut" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbatchcsvtodb" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbatchcsvtodbexample" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbatchexample" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbootbatchcsvtodb" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbootprofile" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbootprofiles" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringbootscheduler" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringcloudfunction" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringcloudfunctionexample" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringcloudtask" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdataenvers" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpa" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaassociations" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaasyncquery" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpacaching" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpacomponentmapping" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpacompositekey" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaexample" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpafilehandling" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpahibernateinheritance" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaidgenerators" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpajpqlandnativesql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpamongodb" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpamultipledatasources" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpanamedparameterparamannotation" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpapaginationandsorting" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpapatientappointmentscheduling" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaproductcrudmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaqueryannotation" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaqueryannotationandmodifyingannotation" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpaquerymethods" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpatransactionmanagement" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpatutorial" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpausingjpqlandnamedqueries" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdatajpausingnamednativequery" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringdataresttestinghalbrowser" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringintegration" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringjdbcmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringjdbi" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringjms" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringmvcexceptionhandling" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringmvcformvalidationthymeleaf" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringmvcmockitoandmockmvc" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringprofile" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringscheduler" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecuritybasic" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecuritycorsclient" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecuritycorsserver" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecurityintegrationtest" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecurityjwt" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringsecurityldap" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringtransaction" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappspringwebsocket" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappstoresprocedurecall" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappstreamapi" options="-parameters" />
+      <module name="springbootappstreamapijavaeight" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappstudentdataaccesslayer" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappstudentmanagementsystem" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptemplateenginefreemarker" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptest" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptestdemo" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptestingmockito" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptestingmockitomockmvc" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptestingpowermockito" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappthymeleafdemo" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappthymeleafserversidetemplateengine" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappthymeleafserversidetemplateenginei18N" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappticketbookingmanagement" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappticketbookingmanagementmysql" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptransactional" options="-parameters -Xlint:unchecked" />
+      <module name="springbootapptutorial" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappuploaddownloaddocument" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappvertexconsumeresfulwebservicesusingvertexwebclient" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappvertexrestfulwebservices" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappvertexweb" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappwebsocket" options="-parameters -Xlint:unchecked" />
+      <module name="springbootappxmlrest" options="-parameters -Xlint:unchecked" />
+      <module name="streambasicapi" options="-parameters -Xlint:unchecked" />
+      <module name="streamcreation" options="-parameters -Xlint:unchecked" />
+      <module name="streaminfinitestream" options="-parameters -Xlint:unchecked" />
+      <module name="streamoperationfilterandmatch" options="-parameters -Xlint:unchecked" />
+      <module name="streamoperationintermediateandterminal" options="-parameters -Xlint:unchecked" />
+      <module name="streamoperationmap" options="-parameters -Xlint:unchecked" />
+      <module name="streamoperationreductionandcollect" options="-parameters -Xlint:unchecked" />
+      <module name="streamparallelstream" options="-parameters -Xlint:unchecked" />
+      <module name="streampipeline" options="-parameters -Xlint:unchecked" />
+      <module name="streamreduction" options="-parameters -Xlint:unchecked" />
+      <module name="streamreferencingstream" options="-parameters -Xlint:unchecked" />
+      <module name="streams" options="-parameters -Xlint:unchecked" />
+      <module name="stringclassenhancement" options="-parameters -Xlint:unchecked" />
+      <module name="stringjoinerclass" options="-parameters -Xlint:unchecked" />
+      <module name="techprimers" options="-parameters -Xlint:unchecked" />
+      <module name="telusko" options="-parameters -Xlint:unchecked" />
+      <module name="telusko-junit" options="-parameters -Xlint:unchecked" />
+      <module name="test-deps" options="-parameters -Xlint:unchecked" />
+      <module name="testing" options="-parameters -Xlint:unchecked" />
+      <module name="testing-hamcrest" options="-parameters -Xlint:unchecked" />
+      <module name="testing-junit4" options="-parameters -Xlint:unchecked" />
+      <module name="testing-junit5" options="-parameters -Xlint:unchecked" />
+      <module name="testing-mockito3" options="-parameters -Xlint:unchecked" />
+      <module name="testing-powermockito2" options="-parameters -Xlint:unchecked" />
+      <module name="testing-spring-boot-application" options="-parameters -Xlint:unchecked" />
+      <module name="testing-udemy-junit5mockitopowermockito-andriipiatakha" options="-parameters -Xlint:unchecked" />
+      <module name="thisreferencevariableinlambda" options="-parameters -Xlint:unchecked" />
+      <module name="threadlocalclassenhancement" options="-parameters -Xlint:unchecked" />
+      <module name="tp-clientsideloadbalancing" options="-parameters -Xlint:unchecked" />
+      <module name="tp-cloud" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservices-architecture-patterns" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-apigateway" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-clientsideloadbalancing" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-highavailability" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-loadbalancingclientside" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-loadbalancingserverside" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-saga" options="-parameters -Xlint:unchecked" />
+      <module name="tp-microservicesarchitecturepatterns-serversideloadbalancing" options="-parameters -Xlint:unchecked" />
+      <module name="tp-serversideloadbalancing" options="-parameters -Xlint:unchecked" />
+      <module name="tp-spring-boot" options="-parameters -Xlint:unchecked" />
+      <module name="typeinference" options="-parameters -Xlint:unchecked" />
+      <module name="udemy" options="-parameters -Xlint:unchecked" />
+      <module name="udemyconcurrencymultithreadingandparallelcomputinginjava" options="-parameters -Xlint:unchecked" />
+      <module name="udemydesignpatternsinjava" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjavadesignpatternsandsoliddesignprinciples" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjavamultithreading" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjavamultithreadingconcurrencyandperformanceoptimization" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjavaprogrammingmasterclassforsoftwaredevelopers" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjunit5quickstartjavaunittesting" options="-parameters -Xlint:unchecked" />
+      <module name="udemyjunitasahabitnotanafterthohought" options="-parameters" />
+      <module name="udemyjunitasahabitnotanafterthought" options="-parameters -Xlint:unchecked" />
+      <module name="udemymasterobjectorienteddesigninjavahomeworksolutions" options="-parameters -Xlint:unchecked" />
+      <module name="udemymodernjavalearnjava8features" options="-parameters -Xlint:unchecked" />
+      <module name="udemymultithreadingparallelasynchronouscoding" options="-parameters -Xlint:unchecked" />
+      <module name="udemypracticaljavaprogrammingpractices" options="-parameters -Xlint:unchecked" />
+      <module name="udemysoftwarearchitecturesolidanddesignpatternsinjava" options="-parameters -Xlint:unchecked" />
+      <module name="udemyspringbootrestfulwebservicestutorial" options="-parameters -Xlint:unchecked" />
+      <module name="udemyspringbootunittestingluv2code" options="-parameters -Xlint:unchecked" />
+      <module name="udemytestingspringbootapplicationwithjunitandmockito" options="-parameters -Xlint:unchecked" />
+      <module name="user-service" options="-parameters -Xlint:unchecked" />
+      <module name="venkat-subramaniam" options="-parameters -Xlint:unchecked" />
+      <module name="version" options="-parameters -Xlint:unchecked" />
+      <module name="wrapperclassenhancements" options="-parameters -Xlint:unchecked" />
+      <module name="zipfileclassenhancement" options="-parameters -Xlint:unchecked" />
+    </option>
+  </component>
+</project>

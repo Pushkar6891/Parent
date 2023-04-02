@@ -1,0 +1,29 @@
+<span class="tab">
+    <h1>Login!</h1>
+</span>
+<div class="container">
+    <div class="alert alert-warning" *ngIf='invalidLogin'>{{errorMessage}}</div>
+    <div>
+        <table>
+            <tr>
+                <td>Username:</td>
+                <td><input type="text" name="username" value="username" [(ngModel)]="username"></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password" value="password" [(ngModel)]="password"></td>
+            </tr>
+            <tr>
+                <!--
+                <td><button (click)=handleLoginHardcodedAuthenticationService() class="btn btn-success">Login using
+                        Hardcoded
+                        Auth</button></td>
+                <td> <button (click)=handleLoginBasicAuthenticationService() class="btn btn-success">Login using Basic
+                        Auth</button></td>
+                -->
+                <td> <button (click)=handleLoginJwtAuthenticationService() class="btn btn-success">Login using Jwt
+                        Auth</button></td>
+            </tr>
+        </table>
+    </div>
+</div>

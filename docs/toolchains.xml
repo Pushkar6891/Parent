@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolchains>
+   <toolchain>
+      <type>jdk</type>
+      <provides>
+         <version>1.8</version>
+      </provides>
+      <configuration>
+         <jdkHome>/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home</jdkHome>
+      </configuration>
+   </toolchain>
+   <toolchain>
+      <type>jdk</type>
+      <provides>
+         <version>17</version>
+      </provides>
+      <configuration>
+         <jdkHome>/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home</jdkHome>
+      </configuration>
+   </toolchain>
+</toolchains>

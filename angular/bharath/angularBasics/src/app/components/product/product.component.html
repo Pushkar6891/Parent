@@ -1,0 +1,13 @@
+<h1>Product Details :</h1>
+<h3>{{ getId() }}</h3>
+<h3>{{ getName() }}</h3>
+<h3>{{ getPrice() }}</h3>
+
+<br />
+
+<h1>Product Details :</h1>
+<div *ngFor="let product of getProducts()">
+  <h3>{{ product.id }}</h3>
+  <h3>{{ product.name }}</h3>
+  <h3>{{ product.price }}</h3>
+</div>

@@ -1,0 +1,10 @@
+/*
+task helloWorld {
+   doLast {
+      println 'hello, world'
+    }
+}
+*/
+task ('helloWorld').doLast {
+      println 'hello, world'
+}

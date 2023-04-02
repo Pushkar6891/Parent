@@ -1,0 +1,77 @@
+<h1>Custom Pipe</h1>
+<h1>{{ "Pushkar Chauhan" | reverse }}</h1>
+
+<br />
+
+<h1>Promise</h1>
+<h1>{{ promiseResponse1 }}</h1>
+<h1>{{ promiseResponse2 | async }}</h1>
+
+<br />
+
+<h1>Title :</h1>
+<h1>{{ title }}</h1>
+<h1>{{ title | titlecase }}</h1>
+<h1>{{ title | uppercase }}</h1>
+<h1>{{ title | lowercase }}</h1>
+
+<br />
+
+<h1>Date :</h1>
+<h1>{{ myDate }}</h1>
+<h1>{{ myDate | date: "mm-dd-yyyy" }}</h1>
+<h1>{{ myDate | date: "yyyy-MM-dd" }}</h1>
+<h1>{{ myDate | date: "MMM-dd-yyyy" }}</h1>
+<h1>{{ myDate | date: "shortDate" }}</h1>
+<h1>{{ myDate | date: "mediumDate" }}</h1>
+<h1>{{ myDate | date: "longDate" }}</h1>
+<h1>{{ myDate | date: "fullDate" }}</h1>
+
+<br />
+
+<h1>Currency :</h1>
+<h1>{{ myCurrency }}</h1>
+<h1>{{ myCurrency | currency }}</h1>
+<h1>{{ myCurrency | currency: "GBP" }}</h1>
+<h1>{{ myCurrency | currency: "EUR" }}</h1>
+<h1>{{ myCurrency | currency: "INR" }}</h1>
+
+<br />
+
+<h1>Json:</h1>
+<h1>{{ myJson }}</h1>
+<h1>{{ myJson | json }}</h1>
+
+<br />
+
+<h1>Decimal:</h1>
+<h1>{{ myNumber }}</h1>
+<h1>{{ myNumber | number: "4.1-2" }}</h1>
+<h1>{{ myNumber | number: "4.2-4" }}</h1>
+<h1>{{ myNumber | number: "5.1-2" }}</h1>
+
+<br />
+
+<h1>Percent</h1>
+
+<h1>{{ stock }}</h1>
+<h1>{{ stock | percent }}</h1>
+<h1>{{ stock | percent: "3.2-2" }}</h1>
+
+<br />
+
+<h1>Slice</h1>
+
+<h1>{{ myNumbers }}</h1>
+<h1>{{ myNumbers | slice: 2:5 }}</h1>
+<h1>{{ myNumbers | slice: 2 }}</h1>
+<h1>{{ myNumbers | slice: 2:-1 }}</h1>
+
+<br />
+
+<h1>Slice in for</h1>
+<b *ngFor="let number of myNumbers | slice: 2">
+  {{ number }}
+</b>
+
+<br />

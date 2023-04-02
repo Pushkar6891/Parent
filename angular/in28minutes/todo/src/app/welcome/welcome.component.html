@@ -1,0 +1,31 @@
+<span class="tab">
+    <h1>Welcome {{username}}!</h1>
+</span>
+<div class="container">
+    <a routerLink="/todos">Manage todos here</a>
+</div>
+<br />
+<div class="container">
+    <table>
+        <tr>
+            <td>
+                <button (click)="getWelcomeMessage()" class="btn btn-success">Greeting</button>
+            </td>
+            <td>
+                <div *ngIf="welcomeMessageFromService">
+                    {{welcomeMessageFromService}}
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button (click)="getWelcomeMessageWithPathVariable()" class="btn btn-success">Greeting</button>
+            </td>
+            <td>
+                <div *ngIf="welcomeMessageFromServiceWithPathVariable">
+                    {{welcomeMessageFromServiceWithPathVariable}}
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,30 @@
+<b>Courses :</b>
+<div *ngFor="let course of courses">
+  <b>{{ course }}</b>
+</div>
+
+<br />
+
+<b>Students :</b>
+<div>
+  <table>
+    <thead>
+      <tr>
+        <td [ngStyle]="{ 'color': 'red', 'background-color': 'orange' }">ID</td>
+        <td [ngStyle]="{ 'color': 'grey', 'background-color': 'pink' }">Name</td>
+        <td [ngStyle]="{ 'color': 'blue', 'background-color': 'aqua' }">Marks</td>
+      </tr>
+    </thead>
+    <tr *ngFor="let student of students">
+      <td [style.color]="'red'" [style.background-color]="'violet'">
+        {{ student.getId() }}
+      </td>
+      <td [style.color]="'orange'" [style.background-color]="'green'">
+        {{ student.getName() }}
+      </td>
+      <td [style.color]="'blue'" [style.background-color]="'yellow'">
+        {{ student.getMarks() }}
+      </td>
+    </tr>
+  </table>
+</div>

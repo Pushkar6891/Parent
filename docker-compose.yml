@@ -1,0 +1,91 @@
+# Commenting docker-compose.yml file because we are using dockerfile-maven-plugin in pom.xml
+version: "3.8"
+services :
+
+   service-registry:
+    image : service-registry
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/service-registry
+    container_name: service-registry
+    restart : always
+    ports:
+    - 8761:8761
+    environment:
+      eureka.instance.hostname: service-registry
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka
+       
+   cloud-config-server:
+    image : cloud-config-server
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/cloud-config-server
+    container_name: cloud-config-server
+    restart : always
+    ports :
+      - 9296:9296
+    depends_on:
+      - service-registry
+    environment:
+      server.port: 9296
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka
+    
+       
+   cloud-gateway:
+    image : cloud-gateway
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/cloud-gateway
+    container_name: cloud-gateway
+    restart : always
+    ports :
+      - 9191:9191
+    depends_on:
+      - service-registry
+      - cloud-config-server
+    environment:
+      server.port: 9191
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka
+       
+   department-service:
+    image : department-service
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/department-service
+    container_name: department-service
+    restart : always
+    ports :
+      - 9001:9001
+    depends_on:
+      - service-registry
+      - cloud-config-server
+      - cloud-gateway
+    environment:
+      server.port: 9001
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka
+       
+   user-service:
+    image : user-service
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/user-service
+    container_name: user-service
+    restart : always
+    ports :
+      - 9002:9002
+    depends_on:
+      - service-registry
+      - cloud-config-server
+      - cloud-gateway
+      - department-service
+    environment:
+      server.port: 9002
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka
+       
+   hystrix-dashboard:
+    image : hystrix-dashboard
+    build : java/version/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/hystrix-dashboard
+    container_name: hystrix-dashboard
+    restart : always
+    ports :
+      - 9295:9295
+    depends_on:
+      - service-registry
+      - cloud-config-server
+      - cloud-gateway
+      - department-service
+      - user-service
+    environment:
+      server.port: 9295
+      eureka.client.serviceUrl.defaultZone: http://service-registry:8761/eureka       
+   

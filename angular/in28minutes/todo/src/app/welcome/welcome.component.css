@@ -1,0 +1,18 @@
+.tab {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0 15px;
+}
+
+th,
+td {
+	width: 150px;
+	text-align: center;
+	border: none;
+	padding: 5px;
+}

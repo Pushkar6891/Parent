@@ -1,0 +1,43 @@
+Syllabus
+
+# Done
+
+
+# Todo
+
+Data Structure and Algorithms
+Spring Framework
+Spring Boot
+Spring Cloud
+Design Patterns
+Kafka
+RabbitMQ
+MySQL
+Oracle
+
+Maven
+Gradle
+
+Git
+Bitbucket
+Github
+GitLab
+
+JAX-RS vs JAX-WS
+
+
+JUnit
+Cucumber
+JMeter
+
+Javascript
+Python
+Angular
+React
+Vue
+
+AWS
+Azure DevOps
+Google Cloud Platform
+
+Unix

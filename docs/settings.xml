@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.1.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd">
+	<servers>
+		<server>
+			<id>docker.io</id>
+			<username>pushkarchauhan91</username>
+			<password>H0w@r3y0ud01ng</password>
+		</server>
+	</servers>
+	<profiles>
+		<profile>
+			<id>downloadSources</id>
+			<properties>
+				<downloadSources>false</downloadSources>
+				<downloadJavadocs>false</downloadJavadocs>
+			</properties>
+		</profile>
+	</profiles>
+	<activeProfiles>
+		<activeProfile>downloadSources</activeProfile>
+	</activeProfiles>
+</settings>

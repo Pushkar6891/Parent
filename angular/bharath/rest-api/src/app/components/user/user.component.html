@@ -1,0 +1,26 @@
+<table
+  border="2"
+  cellspacing="5px"
+  cellpadding="5px"
+  align="center"
+  style="font-size: 20px"
+>
+  <thead style="background-color: gray">
+    <tr>
+      <th>login</th>
+      <th>id</th>
+      <th>url</th>
+      <th>html_url</th>
+      <th>type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users">
+      <td>{{ user.login }}</td>
+      <td>{{ user.id }}</td>
+      <td>{{ user.url }}</td>
+      <td>{{ user.html_url }}</td>
+      <td>{{ user.type }}</td>
+    </tr>
+  </tbody>
+</table>
