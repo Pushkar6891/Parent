@@ -37,6 +37,7 @@ final public class Employee {
         return phoneNumbers;
     }
 
+    // 1. Directly return address object
 //    public Address getAddress() {
 //        return address;
 //    }

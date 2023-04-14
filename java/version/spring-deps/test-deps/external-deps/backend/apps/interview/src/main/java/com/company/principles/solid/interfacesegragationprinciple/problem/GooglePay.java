@@ -1,8 +1,6 @@
 package com.company.principles.solid.interfacesegragationprinciple.problem;
 
-import com.company.principles.solid.interfacesegragationprinciple.solution.CashBackManager;
-
-public class GooglePay implements UPIPayments, CashBackManager {
+public class GooglePay implements UPIPayments {
 
     public void payMoney() {
 

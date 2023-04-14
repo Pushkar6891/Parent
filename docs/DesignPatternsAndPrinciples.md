@@ -70,3 +70,13 @@ public class Singleton implements Serializable, Cloneable {
 10. Dev/Prod Parity
 11. Logs
 12. Admin Process (DB Migration, Load Data)
+
+# Factory Pattern
+java.util.Calendar and java.text.NumberFormat getInstance()
+java.sql.DriverManager getConnection()
+java.lang.Class forName()
+java.lang.Class newInstance()
+java.net.URL openConnection()
+
+# Builder Pattern
+When we pass lot of attributes for an object it is difficult to maintain order or attributes.

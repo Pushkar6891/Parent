@@ -2,9 +2,9 @@ package com.company.principles.solid.dependencyinversionprinciple.problem;
 
 public class ShoppingMall {
 
-    private com.company.principles.solid.dependencyinversionprinciple.problem.DebitCard debitCard;
+    private DebitCard debitCard;
 
-    public ShoppingMall(com.company.principles.solid.dependencyinversionprinciple.problem.DebitCard debitCard) {
+    public ShoppingMall(DebitCard debitCard) {
         this.debitCard = debitCard;
     }
 
@@ -13,8 +13,8 @@ public class ShoppingMall {
     }
 
     public static void main(String[] args) {
-        com.company.principles.solid.dependencyinversionprinciple.problem.DebitCard debitCard = new DebitCard();
-        com.company.principles.solid.dependencyinversionprinciple.problem.CreditCard creditCard = new CreditCard();
+        DebitCard debitCard = new DebitCard();
+        CreditCard creditCard = new CreditCard();
 
         ShoppingMall shoppingMall = new ShoppingMall(debitCard);
         shoppingMall.doPurchaseSomething(5000);

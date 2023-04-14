@@ -21,6 +21,9 @@ public class Tester {
         Address address = pushkar.getAddress();
         System.out.println("Address Object 2 : " + address.hashCode());
 
+    //    Employee gunjan = new ContractEmployee(pushkar.getId(), "John", pushkar.getAddress(), pushkar.getPhoneNumbers());
+    //    pushkar = gunjan;
+
         address.setCity("Bangalore");
         address.setState("Karnataka");
         address.setCountry("India");
@@ -28,5 +31,7 @@ public class Tester {
         System.out.println(pushkar);
     }
 }
+
+
 // Employee is Immutable
 // Address is Mutable

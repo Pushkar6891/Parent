@@ -2,9 +2,9 @@ package com.company.principles.solid.dependencyinversionprinciple.solution;
 
 public class ShoppingMall {
 
-    private com.company.principles.solid.dependencyinversionprinciple.solution.BankCard bankCard;
+    private BankCard bankCard;
 
-    public ShoppingMall(com.company.principles.solid.dependencyinversionprinciple.solution.BankCard bankCard) {
+    public ShoppingMall(BankCard bankCard) {
         this.bankCard = bankCard;
     }
 
