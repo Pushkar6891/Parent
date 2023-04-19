@@ -1,0 +1,5 @@
+com/company/entity/Gender.class
+com/company/entity/Student.class
+com/company/entity/Student$StudentBuilder.class
+com/company/repository/StudentRepository.class
+com/company/SpringDataJpaApplication.class

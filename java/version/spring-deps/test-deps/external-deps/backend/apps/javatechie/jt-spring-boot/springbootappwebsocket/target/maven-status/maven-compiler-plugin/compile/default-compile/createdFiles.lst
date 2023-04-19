@@ -1,0 +1,5 @@
+com/javatechie/spring/ws/api/controller/ChatController.class
+com/javatechie/spring/ws/api/model/ChatMessage.class
+com/javatechie/spring/ws/api/SpringBootWebsocketApplication.class
+com/javatechie/spring/ws/api/config/WsConfig.class
+com/javatechie/spring/ws/api/model/ChatMessage$MessageType.class

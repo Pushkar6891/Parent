@@ -1,0 +1,4 @@
+com/javatechie/spring/neo4j/api/repository/BookRepository.class
+com/javatechie/spring/neo4j/api/node/Book.class
+com/javatechie/spring/neo4j/api/SpringGraphNeo4jApplication.class
+com/javatechie/spring/neo4j/api/controller/BookController.class

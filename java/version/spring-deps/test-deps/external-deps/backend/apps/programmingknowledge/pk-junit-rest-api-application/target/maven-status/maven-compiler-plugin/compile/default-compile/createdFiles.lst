@@ -1,0 +1,6 @@
+com/rest/app/calculator/Calculator.class
+com/rest/app/controller/BookController.class
+com/rest/app/domain/Book$BookBuilder.class
+com/rest/app/repository/BookRepository.class
+com/rest/app/RestApiRunner.class
+com/rest/app/domain/Book.class

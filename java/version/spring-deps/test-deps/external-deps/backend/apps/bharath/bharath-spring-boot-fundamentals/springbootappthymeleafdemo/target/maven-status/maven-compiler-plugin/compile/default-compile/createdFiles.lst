@@ -1,0 +1,4 @@
+com/bharath/springboot/thymeleaf/controller/MyController.class
+com/bharath/springboot/thymeleaf/model/Student.class
+com/bharath/springboot/thymeleaf/model/Student$StudentBuilder.class
+com/bharath/springboot/thymeleaf/ThymeleafExampleApplication.class

@@ -1,0 +1,9 @@
+com/company/batch/listener/JobCompletionNotificationListener.class
+com/company/batch/config/BatchConfiguration.class
+com/company/batch/model/Person.class
+com/company/batch/config/BatchConfiguration$1.class
+com/company/SpringBootBatchProjectApplication.class
+com/company/batch/config/BatchConfiguration$1$1.class
+com/company/batch/listener/JobCompletionNotificationListener$1.class
+com/company/batch/processor/PersonItemProcessor.class
+com/company/batch/config/BatchConfiguration$1$2.class

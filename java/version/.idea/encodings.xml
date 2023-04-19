@@ -97,6 +97,8 @@
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-cloud/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-microservices-with-spring-boot/dcbspringbootapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-microservices-with-spring-boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-spring-boot/springbootappapachekafkaconsumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-spring-boot/springbootappapachekafkaproducer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-deps/test-deps/external-deps/backend/apps/dailycodebuffer/dcb-spring-boot/springbootappbasicemployeerestapi/src/main/java" charset="UTF-8" />

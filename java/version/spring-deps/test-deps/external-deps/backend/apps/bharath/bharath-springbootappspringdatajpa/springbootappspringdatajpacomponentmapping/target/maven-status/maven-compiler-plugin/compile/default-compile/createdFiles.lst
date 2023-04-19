@@ -1,0 +1,4 @@
+com/bharath/springdata/componentmapping/ComponentmappingApplication.class
+com/bharath/springdata/componentmapping/repos/EmployeeRepository.class
+com/bharath/springdata/componentmapping/entities/Address.class
+com/bharath/springdata/componentmapping/entities/Employee.class

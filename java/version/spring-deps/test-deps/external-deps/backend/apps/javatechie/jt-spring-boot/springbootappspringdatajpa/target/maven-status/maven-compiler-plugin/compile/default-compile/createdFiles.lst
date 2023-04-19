@@ -1,0 +1,5 @@
+com/javatechie/spring/data/jpa/api/model/User.class
+com/javatechie/spring/data/jpa/api/controller/UserController.class
+com/javatechie/spring/data/jpa/api/service/UserService.class
+com/javatechie/spring/data/jpa/api/SpringDataJpaApplication.class
+com/javatechie/spring/data/jpa/api/dao/UserRepository.class

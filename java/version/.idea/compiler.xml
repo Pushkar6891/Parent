@@ -87,7 +87,6 @@
         <module name="springbootappbharathspringjdbc" />
         <module name="springbootappcachesimplecacheautoconfigurable" />
         <module name="springbootappcachehazelcastcache" />
-        <module name="interview" />
         <module name="jaeger-server" />
         <module name="testing-hamcrest" />
         <module name="udemydesignpatternsinjava" />
@@ -272,6 +271,7 @@
         <module name="springbootappinterfaceapplicationrunner" />
         <module name="springbootappspringbootprofiles" />
         <module name="concurrencyapiimprovementsexecutorservice" />
+        <module name="dcbspringbootapp" />
         <module name="springbootappspringsecurityldap" />
         <module name="functionalinterface" />
         <module name="springbootappcore" />
@@ -352,6 +352,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dcb-microservices-with-spring-boot" target="17" />
+      <module name="interview" target="9" />
+      <module name="msfs-pe" target="17" />
       <module name="springbootappbestpractices" target="17" />
       <module name="springbootappbestpractise" target="17" />
       <module name="springbootapphighlyavailableeurekaserviceregistry (1)" target="1.8" />
@@ -410,7 +413,9 @@
       <module name="dailycodebuffer" options="-parameters -Xlint:unchecked" />
       <module name="datetimeapienhancements" options="-parameters -Xlint:unchecked" />
       <module name="dcb-cloud" options="-parameters -Xlint:unchecked" />
+      <module name="dcb-microservices-with-spring-boot" options="-parameters -Xlint:unchecked" />
       <module name="dcb-spring-boot" options="-parameters -Xlint:unchecked" />
+      <module name="dcbspringbootapp" options="-parameters" />
       <module name="defaultandstaticmethodininterface" options="-parameters -Xlint:unchecked" />
       <module name="defaultmethodincollectionanditerableinterface" options="-parameters -Xlint:unchecked" />
       <module name="defaultmethodinfunctionalinterfacebiconsumer" options="-parameters -Xlint:unchecked" />

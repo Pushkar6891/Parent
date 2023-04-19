@@ -1,0 +1,10 @@
+com/bharath/springdata/associations/manytomany/entities/Programmer.class
+com/bharath/springdata/associations/manytomany/repos/ProgrammerRepository.class
+com/bharath/springdata/associations/onetomany/repos/CustomerRepository.class
+com/bharath/springdata/associations/onetoone/entities/License.class
+com/bharath/springdata/associations/manytomany/entities/Project.class
+com/bharath/springdata/associations/onetomany/entities/PhoneNumber.class
+com/bharath/springdata/associations/onetoone/repos/LicenseRepository.class
+com/bharath/springdata/associations/onetomany/entities/Customer.class
+com/bharath/springdata/associations/AssociationsApplication.class
+com/bharath/springdata/associations/onetoone/entities/Person.class

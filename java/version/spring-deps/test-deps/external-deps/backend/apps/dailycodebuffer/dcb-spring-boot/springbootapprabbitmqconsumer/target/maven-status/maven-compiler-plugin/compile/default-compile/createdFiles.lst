@@ -1,0 +1,5 @@
+com/dailycodebuffer/mq/MQConfig.class
+com/dailycodebuffer/mq/CustomMessage.class
+com/dailycodebuffer/mq/SpringRabbitmqConsumerApplication.class
+com/dailycodebuffer/mq/MessageListener.class
+com/dailycodebuffer/mq/CustomMessage$CustomMessageBuilder.class

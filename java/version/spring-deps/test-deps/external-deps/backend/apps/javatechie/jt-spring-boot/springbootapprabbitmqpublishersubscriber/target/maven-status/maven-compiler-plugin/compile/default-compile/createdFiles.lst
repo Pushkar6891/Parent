@@ -1,0 +1,6 @@
+com/javatechie/rabbitmq/demo/dto/OrderStatus.class
+com/javatechie/rabbitmq/demo/publisher/OrderPublisher.class
+com/javatechie/rabbitmq/demo/config/MessagingConfig.class
+com/javatechie/rabbitmq/demo/SpringbootRabbitmqExampleApplication.class
+com/javatechie/rabbitmq/demo/dto/Order.class
+com/javatechie/rabbitmq/demo/consumer/User.class

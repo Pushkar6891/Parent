@@ -1,0 +1,5 @@
+com/javatechie/spring/api/repository/PersonRepository.class
+com/javatechie/spring/api/service/PersonService.class
+com/javatechie/spring/api/SpringSecurityIntegrationTestApplication.class
+com/javatechie/spring/api/entity/Person.class
+com/javatechie/spring/api/config/SpringSecurityConfig.class

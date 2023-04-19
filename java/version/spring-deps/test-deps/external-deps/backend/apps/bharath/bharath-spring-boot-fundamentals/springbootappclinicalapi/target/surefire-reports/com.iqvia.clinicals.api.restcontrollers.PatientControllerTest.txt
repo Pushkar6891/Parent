@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iqvia.clinicals.api.restcontrollers.PatientControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.217 s - in com.iqvia.clinicals.api.restcontrollers.PatientControllerTest

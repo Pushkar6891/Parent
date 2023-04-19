@@ -1,0 +1,3 @@
+com/company/entities/Employee.class
+com/company/SpringBootJPADatabaseInitializationApplication.class
+com/company/repository/EmployeeRepository.class

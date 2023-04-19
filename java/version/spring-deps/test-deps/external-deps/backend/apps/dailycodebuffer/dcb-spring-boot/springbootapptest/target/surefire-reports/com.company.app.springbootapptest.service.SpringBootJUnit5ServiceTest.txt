@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.company.app.springbootapptest.service.SpringBootJUnit5ServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.601 s - in com.company.app.springbootapptest.service.SpringBootJUnit5ServiceTest

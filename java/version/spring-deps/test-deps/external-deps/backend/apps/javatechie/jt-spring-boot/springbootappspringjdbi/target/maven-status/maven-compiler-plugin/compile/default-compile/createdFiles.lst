@@ -1,0 +1,5 @@
+com/javatechie/spring/jdbi/api/repository/OrderSQL.class
+com/javatechie/spring/jdbi/api/model/Order.class
+com/javatechie/spring/jdbi/api/SpringJdbiExampleApplication.class
+com/javatechie/spring/jdbi/api/repository/OrderRepository.class
+com/javatechie/spring/jdbi/api/repository/OrderMapper.class

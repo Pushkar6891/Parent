@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dailycodebuffer.spring.data.jpa.tutorial.repository.StudentRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.24 s - in com.dailycodebuffer.spring.data.jpa.tutorial.repository.StudentRepositoryTest

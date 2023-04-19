@@ -1,0 +1,6 @@
+com/company/app/springbootapptest/stepDefinition/BaseConfiguration.class
+com/company/app/springbootapptest/stepDefinition/CucumberConfiguration.class
+com/company/app/springbootapptest/controller/SpringBootJUnit5APITest.class
+com/company/app/springbootapptest/service/SpringBootJUnit5ServiceTest.class
+com/company/app/springbootapptest/runner/CucumberIntegrationTestSuiteRunner.class
+com/company/app/springbootapptest/stepDefinition/HelloWorldStepDefinition.class

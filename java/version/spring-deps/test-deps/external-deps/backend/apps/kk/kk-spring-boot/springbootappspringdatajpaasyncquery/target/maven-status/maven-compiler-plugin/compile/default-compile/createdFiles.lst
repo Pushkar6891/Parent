@@ -1,0 +1,4 @@
+com/company/service/PeopleManagementService.class
+com/company/PeopleManagementSpringBootDataAppApplication.class
+com/company/entities/Person.class
+com/company/dao/PeopleManangementDao.class

@@ -1,0 +1,5 @@
+com/company/model/User.class
+com/company/controller/UserController.class
+com/company/ThymeleafServerSideTemplateEngineApplication.class
+com/company/model/User$UserBuilder.class
+com/company/service/UserService.class

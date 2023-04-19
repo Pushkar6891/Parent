@@ -1,0 +1,8 @@
+com/javatechie/spring/batch/api/config/ApplicationConfig.class
+com/javatechie/spring/batch/api/config/ApplicationConfig$2.class
+com/javatechie/spring/batch/api/config/ApplicationConfig$1.class
+com/javatechie/spring/batch/api/data/Person.class
+com/javatechie/spring/batch/api/SpringBatchMongoApplication.class
+com/javatechie/spring/batch/api/repository/PersonRepository.class
+com/javatechie/spring/batch/api/controller/PersonController.class
+com/javatechie/spring/batch/api/util/MailUtil.class

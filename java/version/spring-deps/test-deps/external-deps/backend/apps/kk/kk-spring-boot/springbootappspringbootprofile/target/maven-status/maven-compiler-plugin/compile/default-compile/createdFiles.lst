@@ -1,0 +1,5 @@
+com/company/config/ProdProfileBean.class
+com/company/SpringBootProfilesAppApplication.class
+com/company/config/DevProfileBean.class
+com/company/config/EnvBasedCofig.class
+com/company/controller/MyController.class

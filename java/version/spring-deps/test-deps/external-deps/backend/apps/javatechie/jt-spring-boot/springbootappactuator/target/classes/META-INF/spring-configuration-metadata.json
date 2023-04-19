@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.release-notes",
+      "type": "com.javatechie.actuator.endpoint.CustomEndpoint",
+      "sourceType": "com.javatechie.actuator.endpoint.CustomEndpoint"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.release-notes.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.javatechie.actuator.endpoint.CustomEndpoint",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.release-notes.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the release-notes endpoint.",
+      "sourceType": "com.javatechie.actuator.endpoint.CustomEndpoint",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

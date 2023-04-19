@@ -1,0 +1,339 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource-coupon",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "sourceType": "com.bharath.springdatajpa.config.CouponDataSourceConfig",
+      "sourceMethod": "couponDataSourceProperties()"
+    },
+    {
+      "name": "spring.datasource-coupon.xa",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "sourceMethod": "getXa()"
+    },
+    {
+      "name": "spring.datasource-product",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "sourceType": "com.bharath.springdatajpa.config.ProductDataSourceConfig",
+      "sourceMethod": "productDataSourceProperties()"
+    },
+    {
+      "name": "spring.datasource-product.xa",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "sourceMethod": "getXa()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource-coupon.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.embedded-database-connection",
+      "type": "org.springframework.boot.jdbc.EmbeddedDatabaseConnection",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.generate-unique-name",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.jndi-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.url",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-coupon.xa.data-source-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "name": "spring.datasource-coupon.xa.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "name": "spring.datasource-product.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.embedded-database-connection",
+      "type": "org.springframework.boot.jdbc.EmbeddedDatabaseConnection",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.generate-unique-name",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.jndi-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.url",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "name": "spring.datasource-product.xa.data-source-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "name": "spring.datasource-product.xa.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "name": "spring.datasource-coupon.continue-on-error",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.continue-on-error"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.data",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.data-locations"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.data-password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.password"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.data-username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.username"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.mode"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.platform",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.platform"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.schema",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.schema-locations"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.schema-password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.password"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.schema-username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.username"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.separator",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.separator"
+      }
+    },
+    {
+      "name": "spring.datasource-coupon.sql-script-encoding",
+      "type": "java.nio.charset.Charset",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.encoding"
+      }
+    },
+    {
+      "name": "spring.datasource-product.continue-on-error",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.continue-on-error"
+      }
+    },
+    {
+      "name": "spring.datasource-product.data",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.data-locations"
+      }
+    },
+    {
+      "name": "spring.datasource-product.data-password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.password"
+      }
+    },
+    {
+      "name": "spring.datasource-product.data-username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.username"
+      }
+    },
+    {
+      "name": "spring.datasource-product.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.mode"
+      }
+    },
+    {
+      "name": "spring.datasource-product.platform",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.platform"
+      }
+    },
+    {
+      "name": "spring.datasource-product.schema",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.schema-locations"
+      }
+    },
+    {
+      "name": "spring.datasource-product.schema-password",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.password"
+      }
+    },
+    {
+      "name": "spring.datasource-product.schema-username",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.username"
+      }
+    },
+    {
+      "name": "spring.datasource-product.separator",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.separator"
+      }
+    },
+    {
+      "name": "spring.datasource-product.sql-script-encoding",
+      "type": "java.nio.charset.Charset",
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "deprecated": true,
+      "deprecation": {
+        "replacement": "spring.sql.init.encoding"
+      }
+    }
+  ],
+  "hints": []
+}

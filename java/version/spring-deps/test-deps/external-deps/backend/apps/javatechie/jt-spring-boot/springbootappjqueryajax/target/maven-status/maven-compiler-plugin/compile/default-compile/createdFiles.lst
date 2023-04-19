@@ -1,0 +1,5 @@
+com/javatechie/spring/ajax/api/SpringAjaxApplication.class
+com/javatechie/spring/ajax/api/controller/ViewController.class
+com/javatechie/spring/ajax/api/dto/ServiceResponse.class
+com/javatechie/spring/ajax/api/dto/Book.class
+com/javatechie/spring/ajax/api/controller/BookController.class

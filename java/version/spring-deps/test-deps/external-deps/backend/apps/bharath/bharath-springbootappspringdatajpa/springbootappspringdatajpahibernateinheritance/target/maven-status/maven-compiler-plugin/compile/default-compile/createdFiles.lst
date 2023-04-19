@@ -1,0 +1,5 @@
+com/bharath/springdata/hibernateinheritance/entities/Check.class
+com/bharath/springdata/hibernateinheritance/HibernateinheritanceApplication.class
+com/bharath/springdata/hibernateinheritance/repos/PaymentRepository.class
+com/bharath/springdata/hibernateinheritance/entities/CreditCard.class
+com/bharath/springdata/hibernateinheritance/entities/Payment.class

@@ -1,0 +1,8 @@
+com/bharath/springdata/patientscheduling/repos/PatientRepository.class
+com/bharath/springdata/patientscheduling/repos/AppointmentRepository.class
+com/bharath/springdata/patientscheduling/entities/Doctor.class
+com/bharath/springdata/patientscheduling/PatientschedulingApplication.class
+com/bharath/springdata/patientscheduling/entities/Insurance.class
+com/bharath/springdata/patientscheduling/entities/Appointment.class
+com/bharath/springdata/patientscheduling/entities/Patient.class
+com/bharath/springdata/patientscheduling/repos/DoctorRepository.class

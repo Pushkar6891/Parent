@@ -1,0 +1,4 @@
+com/javatechie/spring/mongo/api/resource/BookController.class
+com/javatechie/spring/mongo/api/model/Book.class
+com/javatechie/spring/mongo/api/SpringMongodbApplication.class
+com/javatechie/spring/mongo/api/repository/BookRepository.class

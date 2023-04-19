@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+com/javatechie/spring/actuator/api/endpoint/MyEndPointResponse.class
+com/javatechie/spring/actuator/api/endpoint/MyEndPoint.class
+com/javatechie/spring/actuator/api/health/InternetHealthMetrics.class
+com/javatechie/spring/actuator/api/SpringBootActuatorApplication.class
+com/javatechie/spring/actuator/api/controller/MyController.class

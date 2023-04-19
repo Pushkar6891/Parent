@@ -1,0 +1,4 @@
+com/javatechie/spring/graphql/api/entity/Person.class
+com/javatechie/spring/graphql/api/controller/PersonController.class
+com/javatechie/spring/graphql/api/dao/PersonRepository.class
+com/javatechie/spring/graphql/api/SpringGraphQlApplication.class

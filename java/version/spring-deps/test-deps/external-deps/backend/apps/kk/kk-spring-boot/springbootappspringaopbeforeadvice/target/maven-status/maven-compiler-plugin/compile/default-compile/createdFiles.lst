@@ -1,0 +1,7 @@
+com/company/aop/aspect/Auditable$AuditDestination.class
+com/company/service/impl/AccountService.class
+com/company/SpringBootAopApplication.class
+com/company/aop/aspect/Auditable.class
+com/company/model/Account.class
+com/company/service/impl/AccountServiceImpl.class
+com/company/aop/aspect/AccountServiceAspect.class

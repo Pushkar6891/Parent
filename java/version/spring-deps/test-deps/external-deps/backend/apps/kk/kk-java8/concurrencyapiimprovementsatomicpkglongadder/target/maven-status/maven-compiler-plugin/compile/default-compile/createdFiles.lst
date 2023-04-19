@@ -1,0 +1,5 @@
+com/company/adder/service/LongAdderService.class
+com/company/adder/service/impl/LongAdderServiceImpl.class
+com/company/adder/client/ClientTest.class
+com/company/adder/task/IncrementTask.class
+com/company/adder/task/DecrementTask.class

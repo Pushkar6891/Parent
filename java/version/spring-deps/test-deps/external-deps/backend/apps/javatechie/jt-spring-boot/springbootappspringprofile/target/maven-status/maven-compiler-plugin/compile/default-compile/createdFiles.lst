@@ -1,0 +1,5 @@
+com/javatechie/spring/profile/api/service/UserService.class
+com/javatechie/spring/profile/api/SpringProfileApplication.class
+com/javatechie/spring/profile/api/model/User.class
+com/javatechie/spring/profile/api/controller/UserController.class
+com/javatechie/spring/profile/api/dao/UserRepository.class

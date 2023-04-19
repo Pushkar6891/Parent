@@ -1,0 +1,6 @@
+com/javatechie/spring/mongo/embeded/api/model/Address.class
+com/javatechie/spring/mongo/embeded/api/repository/FlipkartRepository.class
+com/javatechie/spring/mongo/embeded/api/SpringMongoEmbededApplication.class
+com/javatechie/spring/mongo/embeded/api/controller/FlipkartOMController.class
+com/javatechie/spring/mongo/embeded/api/model/Product.class
+com/javatechie/spring/mongo/embeded/api/model/User.class

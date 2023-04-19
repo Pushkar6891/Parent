@@ -1,0 +1,11 @@
+com/iqvia/clinicals/api/ClinicalsapiApplication.class
+com/iqvia/clinicals/api/model/ClinicalData.class
+com/iqvia/clinicals/api/restcontrollers/dto/ClinicalDataRequest.class
+com/iqvia/clinicals/api/restcontrollers/PatientController.class
+com/iqvia/clinicals/api/restcontrollers/ClinicalController.class
+com/iqvia/clinicals/api/model/Patient.class
+com/iqvia/clinicals/api/repository/ClinicalDataRepository.class
+com/iqvia/clinicals/api/restcontrollers/dto/ClinicalDataRequest$ClinicalDataRequestBuilder.class
+com/iqvia/clinicals/api/model/ClinicalData$ClinicalDataBuilder.class
+com/iqvia/clinicals/api/model/Patient$PatientBuilder.class
+com/iqvia/clinicals/api/repository/PatientRepository.class

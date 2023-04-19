@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.company.app.springbootapptest.config.ProjectProperties",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    },
+    {
+      "name": "",
+      "type": "com.company.app.springbootapptest.config.ProjectProperties$Mail",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail"
+    },
+    {
+      "name": "",
+      "type": "com.company.app.springbootapptest.config.ProjectProperties$Myapp",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Myapp"
+    },
+    {
+      "name": "mail",
+      "type": "com.company.app.springbootapptest.config.ProjectProperties$Mail",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    },
+    {
+      "name": "myapp",
+      "type": "com.company.app.springbootapptest.config.ProjectProperties$Myapp",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "build",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Myapp"
+    },
+    {
+      "name": "host",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail"
+    },
+    {
+      "name": "language",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Myapp"
+    },
+    {
+      "name": "mail.host",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail"
+    },
+    {
+      "name": "mail.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail",
+      "defaultValue": 0
+    },
+    {
+      "name": "mail.protocol",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail"
+    },
+    {
+      "name": "messagingused",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    },
+    {
+      "name": "myapp.build",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Myapp"
+    },
+    {
+      "name": "myapp.language",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Myapp"
+    },
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    },
+    {
+      "name": "port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail",
+      "defaultValue": 0
+    },
+    {
+      "name": "protocol",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties$Mail"
+    },
+    {
+      "name": "version",
+      "type": "java.lang.String",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    },
+    {
+      "name": "zip",
+      "type": "java.lang.Integer[]",
+      "sourceType": "com.company.app.springbootapptest.config.ProjectProperties"
+    }
+  ],
+  "hints": []
+}

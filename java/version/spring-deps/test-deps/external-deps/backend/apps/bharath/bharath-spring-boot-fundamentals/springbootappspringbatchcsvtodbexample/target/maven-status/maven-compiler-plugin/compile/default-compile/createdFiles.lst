@@ -1,0 +1,4 @@
+com/bharath/boot/batch/SpringBatchApplication.class
+com/bharath/boot/batch/model/Product$ProductBuilder.class
+com/bharath/boot/batch/model/Product.class
+com/bharath/boot/batch/config/BatchConfig.class

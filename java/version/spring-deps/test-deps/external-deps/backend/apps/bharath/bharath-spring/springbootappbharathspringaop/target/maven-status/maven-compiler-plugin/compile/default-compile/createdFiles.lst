@@ -1,0 +1,4 @@
+com/bharath/spring/springaop/test/Test.class
+com/bharath/spring/springaop/ProductService.class
+com/bharath/spring/springaop/aspects/LoggingAspect.class
+com/bharath/spring/springaop/ProductServiceImpl.class

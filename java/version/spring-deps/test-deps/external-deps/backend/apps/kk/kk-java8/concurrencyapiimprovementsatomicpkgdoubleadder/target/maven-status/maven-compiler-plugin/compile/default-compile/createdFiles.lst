@@ -1,0 +1,5 @@
+com/company/adder/service/client/ClientTester.class
+com/company/adder/service/DoubleAdderService.class
+com/company/adder/service/task/IncerementTask.class
+com/company/adder/service/impl/DoubleAdderServiceImpl.class
+com/company/adder/service/task/DecrementTask.class

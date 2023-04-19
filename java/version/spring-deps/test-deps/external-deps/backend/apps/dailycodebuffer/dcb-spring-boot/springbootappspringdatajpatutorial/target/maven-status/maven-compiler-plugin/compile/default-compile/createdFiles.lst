@@ -1,0 +1,15 @@
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Teacher$TeacherBuilder.class
+com/dailycodebuffer/spring/data/jpa/tutorial/repository/TeacherRepository.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Student.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Teacher.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Student$StudentBuilder.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Course.class
+com/dailycodebuffer/spring/data/jpa/tutorial/SpringDataJpaTutorialApplication.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/CourseMaterial$CourseMaterialBuilder.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/CourseMaterial.class
+com/dailycodebuffer/spring/data/jpa/tutorial/repository/StudentRepository.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Guardian$GuardianBuilder.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Course$CourseBuilder.class
+com/dailycodebuffer/spring/data/jpa/tutorial/entity/Guardian.class
+com/dailycodebuffer/spring/data/jpa/tutorial/repository/CourseRepository.class
+com/dailycodebuffer/spring/data/jpa/tutorial/repository/CourseMaterialRepository.class

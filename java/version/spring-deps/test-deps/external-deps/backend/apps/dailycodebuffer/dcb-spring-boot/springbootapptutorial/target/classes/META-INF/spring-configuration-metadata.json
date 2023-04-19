@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.features",
+      "type": "com.dailycodebuffer.springbootapptutorial.config.FeatureEndpoint",
+      "sourceType": "com.dailycodebuffer.springbootapptutorial.config.FeatureEndpoint"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.features.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.dailycodebuffer.springbootapptutorial.config.FeatureEndpoint",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.features.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the features endpoint.",
+      "sourceType": "com.dailycodebuffer.springbootapptutorial.config.FeatureEndpoint",
+      "defaultValue": true
+    },
+    {
+      "name": "welcome.message",
+      "type": "java.lang.String",
+      "description": "A description for 'welcome.message'"
+    }
+  ],
+  "hints": []
+}

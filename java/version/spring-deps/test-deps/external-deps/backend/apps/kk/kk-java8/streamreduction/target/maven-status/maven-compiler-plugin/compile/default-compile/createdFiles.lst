@@ -1,0 +1,5 @@
+com/company/Product.class
+com/company/Test.class
+com/company/StreamReductionTest.class
+com/company/StreamReductionCollectTest.class
+com/company/ParallelStreamsTest.class

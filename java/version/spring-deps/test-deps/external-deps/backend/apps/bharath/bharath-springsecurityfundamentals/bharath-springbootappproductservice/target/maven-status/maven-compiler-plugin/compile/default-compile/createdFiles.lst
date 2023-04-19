@@ -1,0 +1,6 @@
+com/bharath/springcloud/dto/Coupon.class
+com/bharath/springcloud/repository/ProductRepository.class
+com/bharath/springcloud/model/Product.class
+com/bharath/springcloud/ProductServiceApplication.class
+com/bharath/springcloud/model/Product$ProductBuilder.class
+com/bharath/springcloud/controller/ProductRestController.class

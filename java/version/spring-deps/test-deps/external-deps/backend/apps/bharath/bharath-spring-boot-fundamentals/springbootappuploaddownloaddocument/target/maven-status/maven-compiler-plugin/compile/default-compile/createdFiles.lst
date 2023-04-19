@@ -1,0 +1,5 @@
+com/bharath/document/entities/Document.class
+com/bharath/document/repos/DocumentRepository.class
+com/bharath/document/entities/Document$DocumentBuilder.class
+com/bharath/document/controllers/DocumentController.class
+com/bharath/document/DocumentwebApplication.class

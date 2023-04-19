@@ -1,0 +1,6 @@
+com/javatechie/spring/camel/api/dto/Order.class
+com/javatechie/spring/camel/api/dto/Order$OrderBuilder.class
+com/javatechie/spring/camel/api/resource/ApplicationResource.class
+com/javatechie/spring/camel/api/processor/OrderProcessor.class
+com/javatechie/spring/camel/api/CamelRestDslApplication.class
+com/javatechie/spring/camel/api/service/OrderService.class

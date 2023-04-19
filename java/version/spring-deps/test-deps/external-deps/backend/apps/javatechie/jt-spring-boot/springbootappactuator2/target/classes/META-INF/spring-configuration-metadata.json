@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.javatechie",
+      "type": "com.javatechie.spring.actuator.api.endpoint.MyEndPoint",
+      "sourceType": "com.javatechie.spring.actuator.api.endpoint.MyEndPoint"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.javatechie.cache.time-to-live",
+      "type": "java.time.Duration",
+      "description": "Maximum time that a response can be cached.",
+      "sourceType": "com.javatechie.spring.actuator.api.endpoint.MyEndPoint",
+      "defaultValue": "0ms"
+    },
+    {
+      "name": "management.endpoint.javatechie.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the javatechie endpoint.",
+      "sourceType": "com.javatechie.spring.actuator.api.endpoint.MyEndPoint",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,3 @@
+com/bharath/mongodb/model/Product.class
+com/bharath/mongodb/MongodbExampleApplication.class
+com/bharath/mongodb/repository/ProductRepository.class
